@@ -6,7 +6,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="styles.css">
-    <h2> Profile
+    <h2> 
     # Hi there! 👋
 </h2>
 </head>
@@ -14,7 +14,7 @@
     <div class="container">
         <header>
             <h1>Tatiana Antonia Morés</h1>
-            <p class="subtitle">Oral and Maxillofacial Surgeon
+            <p class="subtitle">
             ## I'm Tatiana Antonia Morés
 🎉 29 years old | 🦷 Oral and Maxillofacial Surgeon | 💻 Aspiring Web Developer</p>
         </header>
