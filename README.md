@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="styles.css">
    <title>Tatiana Antonia Morés - Profile</title>
+    
     <style>
         * {
             box-sizing: border-box;
@@ -69,6 +70,7 @@
             text-decoration: underline;
         }
     </style>
+    
 </head>
 <body>
     <div class="container">
@@ -107,16 +109,12 @@
         "I would say the job market, the daily routine, the possibility of having different experiences, " +
         "the contact with technology and development, the chance to create and change the world with technology, " +
         "as well as the desire to step out of stagnation and the comfort zone.";
-    
-    // Constructing the profile message
+  
     const profileMessage = `Hello! My name is ${name}, I am ${age} years old, I am an ${profession} ${specialization}, ` +
         `${goal}. I am ${location}. \n\n${reasonForChange}`;
-
-    // Display the profile message in an alert
     alert(profileMessage);
 }
 
-// Ask the user if they want to see the profile
 const userResponse = prompt("Would you like to learn more about my profile? (yes/no)").toLowerCase();
 
 if (userResponse === 'yes') {
