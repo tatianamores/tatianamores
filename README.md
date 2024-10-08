@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="styles.css">
     <h2> 
-    # Hi there! 👋
+     Hi, there! 👋
 </h2>
 </head>
 <body>
@@ -15,7 +15,7 @@
         <header>
             <h1>Tatiana Antonia Morés</h1>
             <p class="subtitle">
-            ## I'm Tatiana Antonia Morés
+            I am Tatiana Antonia Morés.
 🎉 29 years old | 🦷 Oral and Maxillofacial Surgeon | 💻 Aspiring Web Developer</p>
         </header>
         <section class="bio">
@@ -24,9 +24,8 @@
                 I am 29 years old and a specialist in Surgery and Traumatology. Currently, I am seeking opportunities 
                 and learning in the field of web development (front-end developer). Living in Brazil, but open to the 
                 world and possibilities.
-                ### About Me
-- Currently seeking opportunities in web development (front-end).
-- Living in Brazil, but open to the world.
+            </p>
+            <p>
                 ### My Skills
 - JavaScript
 - HTML & CSS**
