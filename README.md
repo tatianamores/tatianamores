@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)<!DOCTYPE html>
 
 ### Connect with Me
 [![GitHub](https://img.shields.io/badge/GitHub-TatianaMorés-black?style=flat-square&logo=github)](https://github.com/YOUR_GITHUB_USERNAME)<html lang="en">
@@ -28,8 +28,7 @@
             <p>
                 ### My Skills
 - JavaScript
-                ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
-                - HTML & CSS**
+- HTML & CSS
             </p>
             <h2>What Inspired My Career Change?</h2>
             <p>
