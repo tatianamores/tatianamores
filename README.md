@@ -27,10 +27,10 @@
             </p>
                 
  <p>My Skills:</p>
-<p>• HTML</p>
-<p>• CSS </p>
-<p> • JavaScript </p>
-
+• HTML
+• CSS 
+ • JavaScript 
+</p>
             <h3>What Inspired My Career Change?</h3>
             <p>
                 The job market, the daily routine, the chance to have different experiences, 
