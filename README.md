@@ -1,10 +1,10 @@
 ### Connect with Me
-[![GitHub](https://img.shields.io/badge/GitHub-TatianaMorés-black?style=flat-square&logo=github)](https://github.com/YOUR_GITHUB_USERNAME)<html lang="en">
+<img src="https://img.icons8.com/?size=100&id=52539&format=png&color=000000" alt="Icon" style="width: 50px; height: 50px;">[![GitHub](https://img.shields.io/badge/GitHub-TatianaMorés-black?style=flat-square&logo=github)](https://github.com/YOUR_GITHUB_USERNAME)<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="styles.css">
-    <h2> <img src="https://img.icons8.com/?size=100&id=52539&format=png&color=000000" alt="Icon" style="width: 50px; height: 50px;">
+    <h2> 
      Hi, there! 👋
 </h2>
 </head>
