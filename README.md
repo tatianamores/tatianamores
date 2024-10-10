@@ -1,4 +1,6 @@
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)<!DOCTYPE html>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
+![HTML](https://simpleicons.org/icons/html5.svg)
+<!DOCTYPE html>
 
 ### Connect with Me
 [![GitHub](https://img.shields.io/badge/GitHub-TatianaMorés-black?style=flat-square&logo=github)](https://github.com/YOUR_GITHUB_USERNAME)<html lang="en">
