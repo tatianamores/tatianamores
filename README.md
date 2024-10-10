@@ -31,7 +31,7 @@
 <p>• CSS </p>
 <p> • JavaScript </p>
 
-            <h2>What Inspired My Career Change?</h2>
+            <h3>What Inspired My Career Change?</h3>
             <p>
                 The job market, the daily routine, the chance to have different experiences, 
                 the contact with technology and development, the opportunity to create and change the world with technology, 
