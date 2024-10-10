@@ -4,8 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="styles.css">
-    <img src="https://github.com/user-attachments/assets/0424644e-bdfc-44ed-a02f-bfe004749bf7" alt="Icon" style="width: 70px; height: 30px;">
-
+    <img src="https://github.com/user-attachments/assets/0424644e-bdfc-44ed-a02f-bfe004749bf7" alt="Icon" style="width: 70px; height: 30px;">=
     <h2> 
      Hi, there! 👋
 </h2>
