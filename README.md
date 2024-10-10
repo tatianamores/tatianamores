@@ -4,7 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="styles.css">
-    <frameset src="https://ouch-cdn2.icons8.com/7Ze4TdGuku_3csgLkt4qO0ZvMM_VcDRsE8YtooA-GBE/skp:webm/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy92aWRlb3Mv/OTM0L2QzZjFlNmY5/LTI2M2ItNGMzMS1i/ZTAzLWQ0M2RkM2Jm/ZDFlMS53ZWJt.webm" alt="Frame" style="width: 70px; height: 30px;></frameset>
+    <img src="https://github.com/user-attachments/assets/d6260796-afa8-4fda-b1f7-e8d459099513" alt="Icon" style="width: 50px; height: 30px>
+
     <h2> 
      Hi, there! 👋
 </h2>
