@@ -26,9 +26,12 @@
                 world and possibilities.
             </p>
             <p>
-                ### My Skills
-- JavaScript
-- HTML & CSS
+                
+ <p>My Skills:</p>
+<p>• HTML</p>
+<p>• CSS </p>
+<p> • JavaScript </p>
+
             </p>
             <h2>What Inspired My Career Change?</h2>
             <p>
