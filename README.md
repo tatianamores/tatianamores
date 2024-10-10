@@ -1,6 +1,3 @@
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" alt="Icon" style="width: 70px; height: 30px;"><img src= "https://simpleicons.org/icons/html5.svg" alt="Icon" style="width: 50px; height: 30px;"><img src="https://simpleicons.org/icons/csswizardry.svg" alt="Icon" style="width: 50px; height: 30px;"><img src="https://simpleicons.org/icons/nodedotjs.svg" alt="Icon" style="width: 50px; height: 30px;">
-<!DOCTYPE html>
-
 ### Connect with Me
 [![GitHub](https://img.shields.io/badge/GitHub-TatianaMorés-black?style=flat-square&logo=github)](https://github.com/YOUR_GITHUB_USERNAME)<html lang="en">
 <head>
@@ -31,6 +28,8 @@
 • HTML
 • CSS 
  • JavaScript 
+ <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" alt="Icon" style="width: 70px; height: 30px;"><img src= "https://simpleicons.org/icons/html5.svg" alt="Icon" style="width: 50px; height: 30px;"><img src="https://simpleicons.org/icons/csswizardry.svg" alt="Icon" style="width: 50px; height: 30px;"><img src="https://simpleicons.org/icons/nodedotjs.svg" alt="Icon" style="width: 50px; height: 30px;">
+<!DOCTYPE html>
 </p>
             <h3>What Inspired My Career Change?</h3>
             <p>
