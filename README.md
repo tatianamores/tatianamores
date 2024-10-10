@@ -1,5 +1,5 @@
 ### Connect with Me
-<img src="https://img.icons8.com/?size=100&id=52539&format=png&color=000000" alt="Icon" style="width: 50px; height: 50px;">[![GitHub](https://img.shields.io/badge/GitHub-TatianaMorés-black?style=flat-square&logo=github)](https://github.com/YOUR_GITHUB_USERNAME)<html lang="en">
+[![GitHub](https://img.shields.io/badge/GitHub-TatianaMorés-black?style=flat-square&logo=github)](https://github.com/YOUR_GITHUB_USERNAME)<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -43,6 +43,6 @@
             <p>Connect with me on <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">GitHub</a></p>
         </footer>
     </div>
-          
+          <img src="https://img.icons8.com/?size=100&id=52539&format=png&color=000000" alt="Icon" style="width: 50px; height: 50px;">
 </body>
 </html>
