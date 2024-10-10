@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/00cd7418-2f8d-4c2a-ab49-888fac739371)### Connect with Me
+### Connect with Me
 [![GitHub](https://img.shields.io/badge/GitHub-TatianaMorés-black?style=flat-square&logo=github)](https://github.com/YOUR_GITHUB_USERNAME)<html lang="en">
 <head>
     <meta charset="UTF-8">
