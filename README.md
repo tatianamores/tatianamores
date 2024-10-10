@@ -30,12 +30,13 @@
  • JavaScript 
  </p>
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" alt="Icon" style="width: 70px; height: 30px;"><img src= "https://simpleicons.org/icons/html5.svg" alt="Icon" style="width: 50px; height: 30px;"><img src="https://simpleicons.org/icons/csswizardry.svg" alt="Icon" style="width: 50px; height: 30px;"><img src="https://simpleicons.org/icons/nodedotjs.svg" alt="Icon" style="width: 50px; height: 30px;">
-
+<p>
             <h3>What Inspired My Career Change?</h3>
             <p>
                 The job market, the daily routine, the chance to have different experiences, 
                 the contact with technology and development, the opportunity to create and change the world with technology, 
                 and the desire to step out of stagnation and my comfort zone.
+            </p>
             </p>
         </section>
         <footer>
