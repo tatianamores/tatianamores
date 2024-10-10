@@ -25,14 +25,12 @@
                 and learning in the field of web development (front-end developer). Living in Brazil, but open to the 
                 world and possibilities.
             </p>
-            <p>
                 
  <p>My Skills:</p>
 <p>• HTML</p>
 <p>• CSS </p>
 <p> • JavaScript </p>
 
-            </p>
             <h2>What Inspired My Career Change?</h2>
             <p>
                 The job market, the daily routine, the chance to have different experiences, 
