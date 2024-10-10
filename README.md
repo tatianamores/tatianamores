@@ -1,5 +1,5 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
-![HTML](https://simpleicons.org/icons/html5.svg)
+<img src= "https://simpleicons.org/icons/html5.svg" alt="Icon" style="width: 50px; height: 50px;">
 <!DOCTYPE html>
 
 ### Connect with Me
