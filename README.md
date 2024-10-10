@@ -1,6 +1,6 @@
 ### Connect with Me
 [![GitHub](https://img.shields.io/badge/GitHub-TatianaMorés-black?style=flat-square&logo=github)](https://github.com/YOUR_GITHUB_USERNAME)<html lang="en">
-<img src="[https://img.icons8.com/?size=100&id=46565&format=png&color=000000](https://img.icons8.com/?size=100&id=52539&format=png&color=000000)" alt="Icon" style="width: 30px; height: 30px;">
+<img src="https://img.icons8.com/?size=100&id=52539&format=png&color=000000" alt="Icon" style="width: 30px; height: 30px;">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
