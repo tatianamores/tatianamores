@@ -14,7 +14,7 @@
             <h1>Tatiana Antonia Morés</h1>
             <p class="subtitle">
             I am Tatiana Antonia Morés.
-🎉 29 years old | 🦷 Oral and Maxillofacial Surgeon | 💻 Aspiring Web Developer</p>
+🎉 29 years old | 🦷 Oral and Maxillofacial Surgeon | 💻 Starting on the Web Developer journey. </p>
         </header>
         <section class="bio">
             <h2>About Me</h2>
