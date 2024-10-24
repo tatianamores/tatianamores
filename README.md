@@ -11,7 +11,6 @@
 <body>
     <div class="container">
         <header>
-            <h1>Tatiana Antonia Morés</h1>
             <p class="subtitle">
             I am Tatiana Antonia Morés.
 🎉 29 years old | 🦷 Oral and Maxillofacial Surgeon | 💻 Starting on the Web Developer journey. </p>
