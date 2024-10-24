@@ -16,7 +16,7 @@
 🎉 29 years old | 🦷 Oral and Maxillofacial Surgeon | 💻 Starting on the Web Developer journey. </p>
         </header>
         <section class="bio">
-            <h2>About Me</h2>
+            <h3>About Me</h3>
             <p>
                 I am 29 years old and a specialist in Surgery and Traumatology. Currently, I am seeking opportunities 
                 and learning in the field of web development (front-end developer). Living in Brazil, but open to the 
